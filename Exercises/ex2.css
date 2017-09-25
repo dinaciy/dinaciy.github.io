@@ -1,0 +1,27 @@
+/*Imports font from https://fonts.google.com/*/ @import url('https://fonts.googleapis.com/css?family=Lato:100,400,900 ');
+
+.my-body{
+    background-color:#f3f3f3
+}
+
+.div1{
+    border: 1px solid #aaa;
+    background-color: white;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 1rem;
+    box-shadow: 5px 5px 5px #aaa;
+}
+
+.F{
+    color: orangered;
+    text-decoration: overline;
+    font-size: 4rem;
+}
+
+.line1{
+    width:20%;
+    border: 10px solid orangered;
+    margin-left: 0;
+}
+
