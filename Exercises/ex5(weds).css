@@ -1,0 +1,13 @@
+.image-background {
+    background-color: gray;
+    padding: 50px;
+    width: 400px;
+    height:500px;
+    background-image: url('http://stackup.sg/assets/stackup_logo.svg');
+    background-repeat: no-repeat;
+    /*background-size: cover;*/
+    background-size: contain;
+    background-size: 50%;
+    /*background-position:bottom;*/
+    background-position: center;
+}
