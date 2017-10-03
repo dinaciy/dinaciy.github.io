@@ -1,0 +1,61 @@
+
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    /* border: 1px  dotted pink; */
+}
+
+.header {
+    display: flex;
+    background-color: lightblue;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.table1 {
+    background-color: pink;
+    padding: 10px;
+    flex-grow: 1;
+    flex-basis: 100px;
+    text-align: center;
+}
+
+.table2 {
+    background-color: pink;
+    padding: 10px;
+    flex-grow: 2;
+    flex-basis: 500px;
+    border-left: 1px solid black;
+
+}
+
+
+.header .profile-pic {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.input-table{
+    width: 300px;
+    margin: auto ;
+    
+}
+
+input, textarea{ 
+    width: 100%;
+}
+
+.line {
+    
+    background-color: black;
+    height: 7px;
+    color: black;
+}

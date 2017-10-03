@@ -1,0 +1,65 @@
+*{
+    border:none;
+    background-color: none;
+  
+}
+
+.has-bottom {
+    margin-bottom: 2px;
+    font-size: small;
+}
+
+.jumbotron{
+    background-image: url('IMG_2862.jpg');
+    display: block;
+    margin: auto;
+    border: 1px solid white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: auto;;
+    font-style: italic;
+    background-position: auto;
+    text-shadow: 1px 1px 3px pink; 
+}
+
+
+.my-thumb{
+width: 100%;
+border: 1px solid black;
+margin: 10px;
+background-size: cover;
+
+}
+.drop-a-comment{
+    text-shadow: 1px 1px 3px limegreen;
+}
+
+.header-paragraph{
+    text-shadow: 1px 1px 3px blue;
+}
+.contact{
+    text-shadow: 1px 1px 3px purple;
+    text-align: center;
+}
+
+.list-group{
+    text-align: center;
+}
+.form-group{background-color: white
+}
+
+body{
+    background-image: none;
+}
+
+.video{
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+@media(max-width: 2000px) { 
+    .change-font-size{
+        font-size: 8px;
+    }
+
+}

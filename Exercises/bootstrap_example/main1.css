@@ -1,0 +1,22 @@
+.back-yellow{
+    background-color: yellow;
+    margin: 2px black;
+}
+
+.back-red{ 
+    background-color: red;
+}
+
+.back-pink{
+    background-color: pink;
+}
+.change-font-size{
+    font-size: 20px;
+    background-color: skyblue;
+}
+
+@media (max-width:500px) {
+    .change-font-size{
+        font-size: 8px;
+    }
+}
