@@ -17,7 +17,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: auto;;
+    background-position: auto;
     font-style: italic;
     background-position: auto;
     text-shadow: 1px 1px 3px pink; 
@@ -42,10 +42,16 @@ background-size: cover;
     text-shadow: 1px 1px 3px purple;
     text-align: center;
 }
-
+.header-paragraph{
+    text-align: center;
+}
+.paragraph-quotes{
+    text-align: center;
+}
 .list-group{
     text-align: center;
 }
+
 .form-group{background-color: white
 }
 
