@@ -20,7 +20,8 @@
     background-position: auto;
     font-style: italic;
     background-position: auto;
-    text-shadow: 1px 1px 3px pink; 
+    text-shadow: 1px 1px 3px pink;
+    height: 350px; 
 }
 
 
@@ -68,4 +69,13 @@ body{
         font-size: 8px;
     }
 
+}
+.my-socialmedia{
+    text-align: cemter;
+    margin: auto;
+    color: purple;
+}
+
+.opening{text-shadow: 1px 1px 3px orangered;
+    text-align: center
 }
